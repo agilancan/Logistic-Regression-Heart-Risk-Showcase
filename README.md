@@ -97,6 +97,6 @@ This repository showcases the application of a **Logistic Regression** model on 
 ## 📬 Contact
 
 **Agilan Sivakumaran**  
-[LinkedIn]([linkedin.com/in/agilan-sivakumaran/](https://www.linkedin.com/in/agilan-sivakumaran/)) • [Portfolio](http://agilan.io/) • [Email](mailto:agilan.sivakumaran@gmail.com)
+[LinkedIn](https://www.linkedin.com/in/agilan-sivakumaran/) • [Portfolio](http://agilan.io/) • [Email](mailto:agilan.sivakumaran@gmail.com)
 
 ---
