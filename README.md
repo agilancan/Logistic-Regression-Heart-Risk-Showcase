@@ -72,7 +72,7 @@ This repository showcases the application of a **Logistic Regression** model on 
 - Best cross-validation accuracy: **~85.3%**
 - Confusion matrix with best estimator:
 
-![Confusion Matrix - Best Estimator](images/confusion_matrix_best.png)  
+![Confusion Matrix - Best Estimator](images/confusion_matrix_tuned.png)  
 *Figure 2: Confusion matrix after hyperparameter tuning.*
 
 ---
