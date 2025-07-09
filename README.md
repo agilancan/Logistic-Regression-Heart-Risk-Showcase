@@ -62,8 +62,6 @@ This repository showcases the application of a **Logistic Regression** model on 
 - Initial validation accuracy: **~85.8%**.
 - Confusion matrix on validation data:
 
-![Confusion Matrix - Initial Model](images/confusion_matrix_initial.png)  
-*Figure 2: Confusion matrix for initial logistic regression model.*
 
 - Performed hyperparameter tuning using GridSearchCV over:
   - `C`: [0.001, 0.01, 0.1, 1, 10, 100, 1000]
@@ -75,7 +73,7 @@ This repository showcases the application of a **Logistic Regression** model on 
 - Confusion matrix with best estimator:
 
 ![Confusion Matrix - Best Estimator](images/confusion_matrix_best.png)  
-*Figure 3: Confusion matrix after hyperparameter tuning.*
+*Figure 2: Confusion matrix after hyperparameter tuning.*
 
 ---
 
