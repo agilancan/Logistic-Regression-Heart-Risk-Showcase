@@ -94,17 +94,9 @@ This repository showcases the application of a **Logistic Regression** model on 
 
 ---
 
-## 📌 Future Work
-
-- Implement techniques for handling class imbalance (e.g., SMOTE, class weighting).
-- Feature scaling and polynomial feature engineering.
-- Additional performance metrics (ROC-AUC) and detailed feature importance plots.
-
----
-
 ## 📬 Contact
 
 **Agilan Sivakumaran**  
-[LinkedIn](inkedin.com/in/agilan-sivakumaran/) • [Portfolio](http://agilan.io/) • [Email](mailto:agilan.sivakumaran@gmail.com)
+[LinkedIn](linkedin.com/in/agilan-sivakumaran/) • [Portfolio](http://agilan.io/) • [Email](mailto:agilan.sivakumaran@gmail.com)
 
 ---
