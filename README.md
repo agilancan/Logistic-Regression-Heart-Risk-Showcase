@@ -1,16 +1,12 @@
-# 📊 Logistic Regression Case Study – AIDI 1002 Assignment 1
+# 📊 Logistic Regression Case Study
 
 **About this Project**
 
-This logistic regression case study was completed as part of the AIDI 1002 course at Durham College. It provided a hands-on opportunity to apply core data science techniques including data cleaning, feature engineering, model training, hyperparameter tuning, and performance evaluation using real-world medical data. The project highlights my ability to translate theoretical concepts into practical machine learning solutions, making it a valuable example of my growing expertise in predictive analytics.
+This logistic regression case study provided a hands-on opportunity to apply core data science techniques including data cleaning, feature engineering, model training, hyperparameter tuning, and performance evaluation using real-world medical data. The project highlights my ability to translate theoretical concepts into practical machine learning solutions, making it a valuable example of my growing expertise in predictive analytics.
 
 ---
 
 This repository showcases the application of a **Logistic Regression** model on a real-world dataset, as part of the AIDI 1002 course assignment. The project demonstrates proficiency in data preprocessing, feature engineering, model training, and evaluation, along with visualizing results and explaining insights.
-
-> ✅ **Status:** Completed  
-> 🎓 **Course:** AIDI 1002 – Data Science and Machine Learning  
-> 🧠 **Focus:** Logistic Regression Model
 
 ---
 
