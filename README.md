@@ -88,11 +88,3 @@ This repository showcases the application of a **Logistic Regression** model on 
 - Scikit-learn (LogisticRegression, GridSearchCV)
 - Jupyter Notebook / Google Colab
 
----
-
-## 📬 Contact
-
-**Agilan Sivakumaran**  
-[LinkedIn](https://www.linkedin.com/in/agilan-sivakumaran/) • [Portfolio](http://agilan.io/) • [Email](mailto:agilan.sivakumaran@gmail.com)
-
----
